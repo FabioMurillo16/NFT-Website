@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap'); /*Font of Logo:  font-family: 'Poppins', sans-serif; */
+
 :root {
     --backgroundColor: #0E113C;
+    --fontLogo:'Poppins', sans-serif;
 }
 
 * {
@@ -9,4 +12,21 @@
 
 body {
     background-color: var(--backgroundColor);
+}
+
+.header {
+    width: 100vw;
+    height: 200px;
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+}
+
+.header__logo {
+    width: auto;
+    height: auto;
+}
+
+.header__logo__name {
+    font-family: var(--fontLogo);
 }
