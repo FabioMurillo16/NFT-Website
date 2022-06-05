@@ -44,15 +44,6 @@ body {
     -moz-text-fill-color: transparent;
 }
 
-.header__nav {
-    width: auto;
-    display: flex;
-}
-
-.nav__item {
-    margin: 0 15px 0 15px;
-}
-
 .header__searchBar {
     width: 100%;
     max-width: 300px;
