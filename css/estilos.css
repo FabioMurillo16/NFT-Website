@@ -17,10 +17,12 @@ body {
 .section__1 {
     display: grid;
     grid-template-columns:0.1fr 1fr 1fr 0.1fr;
+    grid-template-rows: repeat(2, 1fr);
 }
 
 .header {
     grid-column: 2/4;
+    grid-row: 1/2;
     height: 100px;
     display: flex;
     flex-wrap: wrap;
@@ -77,4 +79,14 @@ body {
 ::placeholder {
     color: #9997BE;
     font-size: 15px;
+}
+
+.section__1__Container__1 {
+    grid-column: 2/3;
+    grid-row: 2/3;
+}
+
+.section__1__Container__2 {
+    grid-column: 3/4;
+    grid-row: 2/3;
 }
