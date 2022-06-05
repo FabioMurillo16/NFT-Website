@@ -23,7 +23,7 @@ nav.header__nav li a {
   color: rgb(255, 255, 255);
 }
 nav.header__nav li a:hover {
-  color: #3ca0e7;
+  color: #ab3ce7;
 }
 nav.header__nav li:hover {
   cursor: pointer;
@@ -55,7 +55,7 @@ nav.header__nav ul li ul li {
 }
 nav.header__nav ul li ul li a:hover {
   padding-left: 10px;
-  border-left: 2px solid #3ca0e7;
+  border-left: 2px solid #ab3ce7;
   transition: all 0.3s ease;
 }
 
