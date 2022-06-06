@@ -2,9 +2,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap'); /*Font of titles: 'Lexend Deca', sans-serif; */
 
 :root {
-    --backgroundColor: #0E113C;
+    /*Variables de fuente*/
     --fontLogo:'Poppins', sans-serif;
     --Titulos: 'Lexend Deca', sans-serif; 
+    /*Variables de color*/
+    --backgroundColor: #0E113C;
 }
 
 * {
