@@ -109,3 +109,9 @@ body {
     grid-column: 3/4;
     grid-row: 2/3;
 }
+
+.section__1__Container__1__paragraft {
+    font-size: 1em;
+    font-family: var(--Titles);
+    color: var(--colorTitles);
+}
