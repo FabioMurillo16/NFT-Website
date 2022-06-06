@@ -92,11 +92,6 @@ body {
     grid-row: 2/3;
 }
 
-.section__1__Container__2 {
-    grid-column: 3/4;
-    grid-row: 2/3;
-}
-
 .section__1__Container__1__title {
     width: 90%;
     font-size: 2em;
@@ -108,4 +103,9 @@ body {
     font-size: 2em;
     font-family: var(--Titles);
     color: var(--colorNFT);
+}
+
+.section__1__Container__2 {
+    grid-column: 3/4;
+    grid-row: 2/3;
 }
