@@ -4,9 +4,10 @@
 :root {
     /*Variables de fuente*/
     --fontLogo:'Poppins', sans-serif;
-    --Titulos: 'Lexend Deca', sans-serif; 
+    --Titles: 'Lexend Deca', sans-serif; 
     /*Variables de color*/
     --backgroundColor: #0E113C;
+    --colorTitles
 }
 
 * {
@@ -98,5 +99,5 @@ body {
 .section__1__Container__1__title {
     width: 90%;
     font-size: 2em;
-    font-family: var(--Titulos);
+    font-family: var(--Titles);
 }
