@@ -16,7 +16,7 @@ body {
 
 .section__1 {
     display: grid;
-    grid-template-columns:0.1fr 1fr 1fr 0.1fr;
+    grid-template-columns:0.3fr 1fr 1fr 0.3fr;
     grid-template-rows: repeat(2, 1fr);
 }
 
@@ -27,7 +27,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .header__logo {
