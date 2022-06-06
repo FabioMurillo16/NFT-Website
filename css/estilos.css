@@ -8,6 +8,7 @@
     /*Variables de color*/
     --backgroundColor: #0E113C;
     --colorTitles: #FDFFFE;
+    --colorNFT: #6A6BBC;
 }
 
 * {
@@ -100,4 +101,11 @@ body {
     width: 90%;
     font-size: 2em;
     font-family: var(--Titles);
+    color: var(--colorTitles);
+}
+
+.section__1__Container__1__nft {
+    font-size: 2em;
+    font-family: var(--Titles);
+    color: var(--colorNFT);
 }
