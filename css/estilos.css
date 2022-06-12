@@ -117,8 +117,9 @@ body {
 }
 
 .section__1__Container__1__button {
+    width: 50%;
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .Container__1__button1 {
