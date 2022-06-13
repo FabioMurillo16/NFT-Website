@@ -43,7 +43,7 @@ body {
 }
 
 .header__logo__name {
-    font-size: 2.5em;
+    font-size: 2em;
     font-family: var(--fontLogo);
     background-image: linear-gradient(to right, #4468c8, #6d66bf, #8666b5, #9867ac, #a56aa2);
     background-repeat: repeat;
