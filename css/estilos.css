@@ -9,6 +9,7 @@
     --backgroundColor: #0E113C;
     --colorTitles: #FDFFFE;
     --colorNFT: #6A6BBC;
+    --colorstadistics: rgb(152, 150, 150);
 }
 
 * {
@@ -166,4 +167,24 @@ body {
 
 .Container__1__button1:hover::after {
     color: white;
+}
+
+.section__1__Container__1__stadistics{
+    width: 80%;
+    display: flex;
+    margin-top: 8%;
+    justify-content: space-between;
+}
+
+.Container__1__stadistics {
+    font-family: var(--Titles);
+}
+
+.Container__1__stadistics h1{
+    text-align: center;
+    color: var(--colorTitles);
+}
+
+.Container__1__stadistics p{
+    color: var(--colorstadistics);
 }
