@@ -188,3 +188,42 @@ body {
 .Container__1__stadistics p{
     color: var(--colorstadistics);
 }
+
+.section__1__Container__2 {
+    display: flex;
+}
+
+.container__img__1 {
+    width: 50%;
+    height: 100%;
+    /* background-color: #9867ac; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.container__img__1__item {
+    width: 90%;
+    height: 30%;
+}
+
+.container__img__1__item img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.container__img__2 {
+    width: 45%;
+    height: 100%;
+    background-color: #4468c8;
+    border-radius: 10px;
+}
+
+.container__img__2 img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
