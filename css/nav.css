@@ -42,7 +42,7 @@ nav.header__nav ul li ul:hover {
   visibility: visible;
   opacity: 1;
   display: block;
-  min-width: 250px;
+  min-width: 200px;
   padding-top: 20px;
   background-color: var(--backgroundColor);
 }
