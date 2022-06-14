@@ -91,6 +91,9 @@ body {
 .section__1__Container__1 {
     grid-column: 2/3;
     grid-row: 2/3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .section__1__Container__1__title {
