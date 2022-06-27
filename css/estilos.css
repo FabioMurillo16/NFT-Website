@@ -235,7 +235,7 @@ body {
     grid-template-rows: repeat(3, 1fr auto);
 }
 
-.section__2__Container__Titles {
+.section__2__Container__1 {
     grid-column: 2/4;
     grid-row: 1/2;
 }
