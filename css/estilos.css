@@ -270,10 +270,12 @@ body {
     grid-row: 2/4;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-column-gap: 50px;
+    grid-row-gap: 25px;
 }
 
 .section__2__Container__2__item_1 {
     height: 400px;
     background-color: #4468c8;
+    border-radius: 5px;
 }
 /* -------------------------------------------------------------Section_2--------------------------------------------------------------*/
