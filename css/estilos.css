@@ -278,4 +278,28 @@ body {
     background-color: #4468c8;
     border-radius: 5px;
 }
+
+.container__img__2__item {
+    width: 100%;
+    height: 45%;
+    background-color: #9997BE;
+}
+
+.title_user_cont {
+    width: 100%;
+    height: 15%;
+    background-color: #a56aa2;
+}
+
+.description_cont {
+    width: 100%;
+    height: 15%;
+    background-color: #474475;
+}
+
+.timer_cont {
+    width: 100%;
+    height: 15%;
+    background-color: burlywood;
+}
 /* -------------------------------------------------------------Section_2--------------------------------------------------------------*/
