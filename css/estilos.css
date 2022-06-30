@@ -275,14 +275,20 @@ body {
 
 .section__2__Container__2__item_1 {
     height: 400px;
-    background-color: #4468c8;
+    background-color: #282544;
     border-radius: 5px;
 }
 
 .container__img__2__item {
     width: 100%;
     height: 45%;
-    background-color: #9997BE;
+    border-radius: 5px;
+}
+
+.container__img__2__item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     border-radius: 5px;
 }
 
