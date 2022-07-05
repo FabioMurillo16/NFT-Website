@@ -294,7 +294,7 @@ body {
 
 .User__features__container {
     width: 100%;
-    height: 15%;
+    height: auto; /*cambiando de % a Auto*/
     display: flex;
     /* margin-top: 5%; */
     /* background-color: #a56aa2; */
