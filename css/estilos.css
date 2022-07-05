@@ -318,6 +318,7 @@ body {
     width: 50px;
     display: flex;
     border-radius: 100%;
+    padding-left: 5%;
     /* background-color: red; */
     /* margin-left: 8%; */
 }
