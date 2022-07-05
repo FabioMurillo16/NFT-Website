@@ -296,7 +296,7 @@ body {
     width: 100%;
     height: 15%;
     display: flex;
-    margin-top: 5%;
+    /* margin-top: 5%; */
     /* background-color: #a56aa2; */
 }
 
@@ -313,11 +313,12 @@ body {
 }
 
 .User__features__container__item1 {
-    height: 100%;
-    width: 18%;
+    height: 50px;
+    width: 50px;
+    display: flex;
     border-radius: 100%;
     /* background-color: red; */
-    margin-left: 8%;
+    /* margin-left: 8%; */
 }
 
 .User__features__container__item1 img{
