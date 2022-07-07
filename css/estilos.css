@@ -345,6 +345,11 @@ body {
     color: var(--colorTitles);
 }
 
+.title__userName__container__item2 {
+    font-family: var(--Titles);
+    color: var(--colorTitles);
+}
+
 .item_1_icons {
     display: flex;
     flex-direction: row;
