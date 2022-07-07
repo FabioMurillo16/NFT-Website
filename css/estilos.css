@@ -340,6 +340,11 @@ body {
     margin-left: 5%;
 }
 
+.title__userName__container__item1 {
+    font-family: var(--Titles);
+    color: var(--colorTitles);
+}
+
 .item_1_icons {
     display: flex;
     flex-direction: row;
