@@ -12,6 +12,8 @@
     --colorTitles: #FDFFFE;
     --colorNFT: #6A6BBC;
     --colorstadistics: rgb(152, 150, 150);
+    --colorUser: #A9A8B4;
+    --colorParagraph: #D7D6DC;
 }
 
 * {
@@ -349,7 +351,7 @@ body {
 
 .title__userName__container__item2 {
     font-family: var(--UserFont);
-    color: var(--colorTitles);
+    color: var(--colorUser);
 }
 
 .item_1_icons {
