@@ -348,7 +348,7 @@ body {
 }
 
 .title__userName__container__item2 {
-    font-family: var(--Titles);
+    font-family: var(--UserFont);
     color: var(--colorTitles);
 }
 
