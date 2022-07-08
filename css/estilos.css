@@ -1,10 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap'); /*Font of Logo:  font-family: 'Poppins', sans-serif; */
 @import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap'); /*Font of titles: 'Lexend Deca', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap'); /*Font of user: 'Quicksand', sans-serif;*/
 
 :root {
     /*Variables de fuente*/
     --fontLogo:'Poppins', sans-serif;
     --Titles: 'Lexend Deca', sans-serif; 
+    --UserFont: 'Quicksand', sans-serif;;
     /*Variables de color*/
     --backgroundColor: #0E113C;
     --colorTitles: #FDFFFE;
