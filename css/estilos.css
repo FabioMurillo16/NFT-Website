@@ -368,4 +368,10 @@ body {
     justify-content: space-between;
     margin: 0 5%;
 }
+
+.fa-clock {
+    position: relative; 
+    top: 3px; 
+    right: 1px;
+}
 /* -------------------------------------------------------------Section_2--------------------------------------------------------------*/
