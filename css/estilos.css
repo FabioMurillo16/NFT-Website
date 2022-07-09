@@ -360,6 +360,7 @@ body {
 .item_1_icons {
     display: flex;
     flex-direction: row;
+    font-family: var(--UserFont);
 }
 
 .fa-clock {
@@ -373,5 +374,10 @@ body {
     flex-direction: column;
     justify-content: space-between;
     margin: 0 5%;
+}
+
+.item_1_title {
+    font-family: var(--UserFont);
+    color: var(--colorUser);
 }
 /* -------------------------------------------------------------Section_2--------------------------------------------------------------*/
