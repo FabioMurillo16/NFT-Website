@@ -320,7 +320,7 @@ body {
     height: 10%;
     display: flex;
     justify-content: space-between;
-    background-color: burlywood;
+    /* background-color: burlywood; */
 }
 
 .User__features__container__item1 {
