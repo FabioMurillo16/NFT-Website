@@ -309,6 +309,9 @@ body {
     width: auto;
     height: auto;
     padding: 2% 5%;
+    font-family: var(--UserFont);
+    color: var(--colorParagraph);
+    font-size: small;
     /* background-color: #474475; */
 }
 
