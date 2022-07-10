@@ -363,10 +363,9 @@ body {
     font-family: var(--UserFont);
 }
 
-.fa-clock {
-    position: relative; 
-    top: 1.5px; 
-    right: 1px;
+.fa-clock::before {
+    background-color: #c2c3d4;
+    border-radius: 100px;
 }
 
 .timer_item_1 {
