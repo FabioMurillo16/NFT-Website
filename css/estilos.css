@@ -437,4 +437,13 @@ body {
 .Container__1__button2:hover::after {
     color: white;
 }
+
+.section__2__Container__3 {
+    grid-column: 2/4;
+    grid-row: 4/5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 3%;
+}
 /* -------------------------------------------------------------Section_2--------------------------------------------------------------*/
