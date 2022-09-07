@@ -455,7 +455,7 @@ body {
     grid-template-rows: auto;
 }
 
-.section__3__Container__1__title {
+.section__3__Container__1 {
     grid-column: 2/4;
     grid-row: 1/2;
 }
