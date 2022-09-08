@@ -503,4 +503,9 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.container2__img__item__paragraft {
+    color: var(--colorParagraph);
+    font-family: var(--Titles);
+}
 /* -------------------------------------------------------------Section_3--------------------------------------------------------------*/
