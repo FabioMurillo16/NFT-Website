@@ -498,5 +498,8 @@ body {
     height: 150px;
     background-color: #1C2434;
     border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 /* -------------------------------------------------------------Section_3--------------------------------------------------------------*/
