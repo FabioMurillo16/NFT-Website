@@ -499,6 +499,7 @@ body {
     background-color: #1C2434;
     border-radius: 5px;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
 }
