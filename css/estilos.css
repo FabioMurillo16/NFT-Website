@@ -28,7 +28,7 @@ body {
 .section__1 {
     display: grid;
     grid-template-columns:0.35fr 1fr 1fr 0.35fr;
-    grid-template-rows: repeat(2, 1fr auto);
+    /* grid-template-rows: repeat(2, 1fr auto); */
 }
 
 .header {
@@ -92,7 +92,16 @@ body {
     font-size: 15px;
 }
 
+.full__section__1__Container__1 {
+    display: grid;
+    grid-column: 2/4;
+    grid-row: 2/4;
+    grid-template-columns: repeat(auto-fit, minmax(800px, 1fr));
+}
+
 .section__1__Container__1 {
+    height: 300px;
+    background-color: #282544;
     grid-column: 2/3;
     grid-row: 2/3;
     display: flex;
@@ -192,6 +201,8 @@ body {
 }
 
 .section__1__Container__2 {
+    background-color: #6A6BBC;
+    height: 300px;
     grid-column: 3/4;
     grid-row: 2/3;
     display: flex;
