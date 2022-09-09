@@ -39,6 +39,7 @@ body {
     flex-wrap: wrap;
     align-items: center;
     justify-content: space-between;
+    margin: 2% 0 2% 0;
 }
 
 .header__logo {
