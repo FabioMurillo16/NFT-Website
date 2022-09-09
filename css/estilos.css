@@ -105,6 +105,10 @@ body {
     height: auto;
 }
 
+#section__1__Container__1__id {
+    display: flex;
+}
+
 .section__1__Container__1__title {
     width: 90%;
     font-size: 2em;
