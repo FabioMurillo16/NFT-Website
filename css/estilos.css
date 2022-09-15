@@ -551,10 +551,17 @@ body {
 } 
 
 .section__3__Container__4 {
+    display: grid;
     grid-column: 2/4;
     grid-row: 5/6;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
     grid-column-gap: 20px;
     grid-row-gap: 25px;
+}
+
+.section__3__Container__4__item_1 {
+    height: 150px;
+    background-color: #282544;
+    border-radius: 5px;
 }
 /* -------------------------------------------------------------Section_3--------------------------------------------------------------*/
