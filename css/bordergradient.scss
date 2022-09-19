@@ -1,14 +1,15 @@
 .section__3__Container__4__item_1 {
   
     display: flex;
+    justify-content: space-around;
     align-items: center;
     //width: 50vw;
-    width: 80%;
+    width: auto;
     margin: auto;
-    max-width: 22em;
+    max-width: 30em;
   
     position: relative;
-    padding: 8% 2em;
+    // padding: 8% 2em;
     box-sizing: border-box;
   
     $border: 5px;
