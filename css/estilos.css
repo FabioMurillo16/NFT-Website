@@ -559,9 +559,15 @@ body {
     grid-row-gap: 25px;
 }
 
-/* .section__3__Container__4__item_1 {
-    height: 150px;
-    background-color: #282544;
-    border-radius: 5px;
-} */
+.Container__4__item_1__img {
+    width: 100px;
+    height: 100px;
+    background-color: #4468c8;
+}
+
+.Container__4__item_1__info {
+    width: 100px;
+    height: 100px;
+    background-color: #5d1a61;
+}
 /* -------------------------------------------------------------Section_3--------------------------------------------------------------*/
