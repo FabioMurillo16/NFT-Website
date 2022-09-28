@@ -572,13 +572,4 @@ body {
     object-fit: cover;
     border-radius: 5%;
 }
-
-.Container__4__item_1__info {
-    width: 200px;
-    height: 130px;
-    background-color: #5d1a61;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-}
 /* -------------------------------------------------------------Section_3--------------------------------------------------------------*/
