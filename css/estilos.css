@@ -559,6 +559,11 @@ body {
     grid-row-gap: 25px;
 }
 
+.Container__4__item_1__info__icons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .Container__4__item_1__img {
     width: 130px;
     height: 130px;
