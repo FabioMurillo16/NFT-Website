@@ -564,6 +564,16 @@ body {
     justify-content: space-evenly;
 }
 
+.Icons_Section3_Container4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 22px;
+    height: 22px;
+    border: solid  ;
+    border-radius: 0.1875rem;
+}
+
 .Container__4__item_1__img {
     width: 130px;
     height: 130px;
