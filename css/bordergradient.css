@@ -1,5 +1,5 @@
 @charset "UTF-8";
-.section__3__Container__4__item_1 {
+.BorderGradientItem {
   display: flex;
   justify-content: space-around;
   align-items: center;
@@ -13,7 +13,7 @@
   border: solid 5px transparent; /* !importanté */
   border-radius: 1em;
 }
-.section__3__Container__4__item_1:before {
+.BorderGradientItem:before {
   content: "";
   position: absolute;
   top: 0;
